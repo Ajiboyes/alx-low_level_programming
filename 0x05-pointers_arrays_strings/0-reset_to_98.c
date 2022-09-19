@@ -1,4 +1,5 @@
 #include<main.h>
+
  /**
    * Reset_To_98 - Updates the value it points to 98
    * @n: pointer to n
