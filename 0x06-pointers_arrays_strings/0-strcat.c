@@ -1,4 +1,3 @@
-#include "main.h"
 #include <stdio.h>
 
 /**
@@ -17,7 +16,7 @@ char *_strcat(char *dest, char *src)
 	{
 		i++;
 	}
-		x = 0;
+	x = 0;
 
 	while (src[k] != '\0')
 	{
